@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> mi pagina </title>
+</head>nose 
+<body>
+
+</body>
+</html>
+ 
+ <body>
+  <h1> bienvenido </h1>
+  <p>Este es un párrafo de ejemplo.</p>
+  <img src="imagen.jpg" alt="Descripción de la imagen">
+  <a href="https://www.ejemplo.com">Enlace a otro sitio web</a>
+</body>
+<body>
+  <h1 id="para ver"</h1>
+  
+  <script>
+    var titulo = document.getElementById("titulo");
+    titulo.style.color = "red";
+  </script>
+</body>
